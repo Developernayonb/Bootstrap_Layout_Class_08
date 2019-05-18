@@ -1,0 +1,23 @@
+.heade, .hero, .body, .bar, .footer{
+    background-color: #ffaec9;
+    padding: 10px 0;
+}
+.bg {
+    background-color: #658F9A;
+    height: 90px;
+    margin-bottom: 10px;
+    border: 5px solid #167532;
+}
+.bgr {
+    background-color: red;
+    height: 90px;
+    margin-bottom: 10px;
+    border: 5px solid #167532;
+}
+.bgy{
+ background-color: yellow;
+    height: 90px;
+    margin-bottom: 10px;
+    border: 5px solid #167532;
+ 
+}
